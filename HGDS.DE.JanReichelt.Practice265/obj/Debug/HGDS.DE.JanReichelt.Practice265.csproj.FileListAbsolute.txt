@@ -1,0 +1,10 @@
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\bin\Debug\HGDS.DE.JanReichelt.Practice265.exe.config
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\bin\Debug\HGDS.DE.JanReichelt.Practice265.exe
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\bin\Debug\HGDS.DE.JanReichelt.Practice265.pdb
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.csprojAssemblyReference.cache
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.Frm_Practice265.resources
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.Properties.Resources.resources
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.csproj.GenerateResource.cache
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.csproj.CoreCompileInputs.cache
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.exe
+S:\Ausbildung\Mitarbeiter\Jan.Reichelt\Uebungen\C#\HGDS.DE.Training.TrainYourProgrammer\#265\HGDS.DE.JanReichelt.Practice265\HGDS.DE.JanReichelt.Practice265\obj\Debug\HGDS.DE.JanReichelt.Practice265.pdb
