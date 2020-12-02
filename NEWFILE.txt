@@ -1,1 +1,6 @@
-asjkdflöasdj
+<<<<<<< HEAD
+gute Datei.
+Trotzdem nochmal ne Änderung von mir.
+
+Aber das hier musste auch noch mit rein: asjkdflöasdj
+>>>>>>> ee3b4e9d6755b195bfaaf0d7fe87507743793824
